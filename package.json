@@ -1,0 +1,24 @@
+{
+  "name": "note-taker-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PROGRAMER122223/Note-Taker-Repo.git"
+  },
+  "author": "Brad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PROGRAMER122223/Note-Taker-Repo/issues"
+  },
+  "homepage": "https://github.com/PROGRAMER122223/Note-Taker-Repo#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "uuid": "^8.3.2"
+  }
+}
