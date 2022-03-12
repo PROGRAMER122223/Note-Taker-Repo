@@ -83,3 +83,10 @@ Pull requests are always welcome!
 If you have any questions about the repo, 
 [open an issue](https://github.com/programer122223/) 
 or contact me directly at [Email](mailto:pratibha.indel@gmail.com).
+
+
+## Deployed link
+1.Heroku deploy link
+https://note-taker1-heroku.herokuapp.com/
+
+2.github link  https://programer122223.github.io/Note-Taker-Repo/
