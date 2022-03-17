@@ -88,6 +88,6 @@ or contact me directly at [Email](mailto:pratibha.indel@gmail.com).
 ## Deployed link
 1.Heroku deploy link
 
-https://note-taker3-myheroku.herokuapp.com/
+https://note1-taker1-app.herokuapp.com/
 
 2.github link to Note-Taker-repo https://github.com/PROGRAMER122223/Note-Taker-Repo
